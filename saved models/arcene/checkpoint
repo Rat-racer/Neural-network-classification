@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/rat_racer/Desktop/tensorflow/saved models/arcene/save_net.ckpt"
+all_model_checkpoint_paths: "/Users/rat_racer/Desktop/tensorflow/saved models/arcene/save_net.ckpt"
